@@ -32,10 +32,9 @@ Em constante aprendizado e tentando cada vez mais melhorar.
 <a href="https://www.instagram.com/r.oliveiraa_wx/" target="_blank">
   <img src="https://skillicons.dev" alt="Instagram" height="40" />
 </a>
-<a href="(https://mail.google.com/mail/u/0/?pli=1#inbox)">
-  <img src="https://skillicons.dev" alt="Email" height="40" />
+<a href="https://mail.google.com/mail/u/0/?pli=1#inbox" target="_blank">
+  <img src="https://skillicons.dev" alt="Email" />
 </a>
-
 <!--
 **Ranielly-01/Ranielly-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
