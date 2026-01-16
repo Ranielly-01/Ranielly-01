@@ -1,4 +1,4 @@
-## 👋 Oiii! Eu sou o Uagner Coutinho
+## 👋 Oii! Eu sou a Ranielly Cristinny
 
 💻 Estudante e entusiasta de programação e tecnologia  
 🌱 Atualmente aprendendo **HTML, CSS e JavaScript**  
@@ -10,9 +10,9 @@
 ### 🛠️ Tecnologias em estudo
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Uagner-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Uagner-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Uagner-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ranielly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ranielly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ranielly-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 ---
@@ -21,12 +21,9 @@
 
 <div>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-2E7D32?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="[https://img.shields.io/badge/Instagram-2E7D32?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/r.oliveiraa_wx/)">
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1B5E20?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="[mailto:seuemail@gmail.com](https://mail.google.com/mail/u/0/?pli=1#inbox)">
     <img src="https://img.shields.io/badge/Gmail-C62828?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
