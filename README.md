@@ -25,7 +25,7 @@
     <img src="https://img.shields.io" alt="Instagram">
   </a>
   <!-- Gmail Corrigido (Substitua o email abaixo pelo seu real) -->
-  <a href="[mailto:SEUEMAIL@GMAIL.COM](https://mail.google.com/mail/u/0/?pli=1#inbox)">
+  <a href="[mailto:https://mail.google.com/mail/u/0/?pli=1#search/raniellycristinny2413%40gmail.com](https://mail.google.com/mail/u/0/?pli=1#inbox)">
     <img src="https://img.shields.io" alt="Gmail">
   </a>
 </div>
