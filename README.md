@@ -4,7 +4,10 @@
 Em constante aprendizado e tentando cada vez mais melhorar. 
 
 ### 👨‍💻 Linguagens de Programação
-[![Minhas Linguagens](https://skillicons.dev)](https://skillicons.dev)
+<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/e3339cdc-d388-4bb7-a3b1-19dbf0940ffe" />
+<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/ce6827f6-8359-4007-b957-5a1636a71fa4" />
+
+
 
 ### 🗄️ Bancos de Dados
 [![Meus Bancos](https://skillicons.dev)](https://skillicons.dev)
