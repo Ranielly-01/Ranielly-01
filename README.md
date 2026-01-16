@@ -7,6 +7,35 @@ Em constante aprendizado e tentando cada vez mais melhorar.
 <a href= "https://www.instagram.com/r.oliveiraa_wx/" target="_blank">
    <img src="https://skillicons.dev" alt="Instagram" />
 </a>
+
+## 🛠️ Tecnologias e Especializações
+
+### 👨‍💻 Linguagens de Programação
+[![Minhas Linguagens](https://skillicons.dev)](https://skillicons.dev)
+
+### 🗄️ Bancos de Dados
+[![Meus Bancos](https://skillicons.dev)](https://skillicons.dev)
+
+### ☁️ Nuvem e DevOps
+[![DevOps](https://skillicons.dev)](https://skillicons.dev)
+
+### 🔐 Segurança e Arquitetura
+*   **🔒 Segurança da Informação:** ISO 27001, GDPR
+*   **🔑 Autenticação:** OAuth 2.0 e JWT
+*   **🧩 Arquitetura:** Microsserviços e APIs RESTful
+*   **⚙️ CI/CD:** Jenkins e GitLab CI
+*   **🧪 Testes:** Pentest e Hardening
+
+---
+
+### 📫 Contato
+<a href="https://www.instagram.com/r.oliveiraa_wx/" target="_blank">
+  <img src="https://skillicons.dev" alt="Instagram" height="40" />
+</a>
+<a href="(https://mail.google.com/mail/u/0/?pli=1#inbox)">
+  <img src="https://skillicons.dev" alt="Email" height="40" />
+</a>
+
 <!--
 **Ranielly-01/Ranielly-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
