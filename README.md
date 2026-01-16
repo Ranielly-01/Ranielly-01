@@ -2,6 +2,12 @@
 
 👸 SOBRE MIM:  Sou estudante de Desenvolvimento de Software em andamento, com interesse em tecnologia, programação e criação de soluções digitais
 Em constante aprendizado e tentando cada vez mais melhorar. 
+
+Habilidades: 
+[![My Skills](file:///C:/Users/ranielly59303326/Desktop/HTML/Portf%C3%B3lio.html)](file:///C:/Users/ranielly59303326/Desktop/HTML/Portf%C3%B3lio.html)
+
+
+🌎 Redes Sociais: 
 [![My Skills](https://www.instagram.com/r.oliveiraa_wx/)](https://www.instagram.com/r.oliveiraa_wx/)
 
 <!--
