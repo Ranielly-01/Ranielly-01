@@ -3,13 +3,6 @@
 👸 SOBRE MIM:  Sou estudante de Desenvolvimento de Software em andamento, com interesse em tecnologia, programação e criação de soluções digitais
 Em constante aprendizado e tentando cada vez mais melhorar. 
 
-### 📱 Redes Sociais
-<a href= "https://www.instagram.com/r.oliveiraa_wx/" target="_blank">
-   <img src="https://skillicons.dev" alt="Instagram" />
-</a>
-
-## 🛠️ Tecnologias e Especializações
-
 ### 👨‍💻 Linguagens de Programação
 [![Minhas Linguagens](https://skillicons.dev)](https://skillicons.dev)
 
