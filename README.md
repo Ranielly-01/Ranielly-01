@@ -4,12 +4,16 @@
 Em constante aprendizado e tentando cada vez mais melhorar. 
 
 ### 📫 Contato
-<a href="https://www.instagram.com/r.oliveiraa_wx/" target="_blank">
-  <img src="https://skillicons.dev" alt="Instagram" height="40" />
-</a>
-<a href="https://mail.google.com/mail/u/0/?pli=1#inbox" target="_blank">
-  <img src="https://skillicons.dev" alt="Email" />
-</a>
+<a href="#" target="_blank">
+    <img src="https://www.instagram.com/lvjuann?igsh=a3g3aHU2MnpiaGdr-2E7D32?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1B5E20?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="juan0.9gomees@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-C62828?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
 <!--
 **Ranielly-01/Ranielly-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
