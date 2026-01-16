@@ -3,12 +3,10 @@
 👸 SOBRE MIM:  Sou estudante de Desenvolvimento de Software em andamento, com interesse em tecnologia, programação e criação de soluções digitais
 Em constante aprendizado e tentando cada vez mais melhorar. 
 
-Habilidades: 
-[![My Skills](file:///C:/Users/ranielly59303326/Desktop/HTML/Portf%C3%B3lio.html)](file:///C:/Users/ranielly59303326/Desktop/HTML/Portf%C3%B3lio.html)
-
-
-🌎 Redes Sociais: 
-[![My Skills](https://www.instagram.com/r.oliveiraa_wx/)](https://www.instagram.com/r.oliveiraa_wx/)
+### 📱 Redes Sociais
+<a href="[https://www.instagram.com](https://www.instagram.com/r.oliveiraa_wx/)" target="_blank">
+  <img src="https://skillicons.dev" alt="Instagram" />
+</a>
 
 <!--
 **Ranielly-01/Ranielly-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
